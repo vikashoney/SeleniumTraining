@@ -1,0 +1,14 @@
+ChromeDriver = C:\\SeleniumDrivers\\chromedriver\\chromedriver.exe
+FireFoxDriver=  C:\\SeleniumDrivers\\geckodriver\\geckodriver.exe
+IEDriver= C:\\SeleniumDrivers\\IEDriverServer\\IEDriverServer.exe
+Facebook_Url=https://www.facebook.com/
+Excelfile=C:\\TestData\\TestData.xlsx
+Krctc_url=http://ksrtc.in/oprs-web/
+monster_url=https://www.monsterindia.com/seeker/personal
+Flipkart_Url=https://www.flipkart.com/
+DB_Server=localhost
+DB_Port=3306
+DB_UserName=root
+DB_Password=root
+fb_username=9765627776
+fb_password=262626
