@@ -106,11 +106,7 @@ public class PracticeSignUp {
 			
 			//WebElement register=driver.findElement(By.xpath("//button[@id='submitAccount']"));
 			//register.click();
-			
-			
-			
-			
-			
+		
 			
 		}
 		//Thread.sleep(10000);
